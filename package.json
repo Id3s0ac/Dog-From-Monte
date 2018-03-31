@@ -2,7 +2,7 @@
   "name": "Test",
   "description": "Test",
   "version": "0.0.0",
-  "main": "bot.js", Dog-From-Monte
+  "main": "bot.js", "Dog-From-Monte"
   "scripts": {
     "start": "node bot.js"
   },
