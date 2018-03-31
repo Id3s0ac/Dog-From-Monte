@@ -7,14 +7,9 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-    if (message.content === 'Heil!') {
-    	message.reply('Hitler!');
-  	}
-}else
-          
     if (message.content === 'autism') {
-        message.reply('https://www.youtube.com/watch?v=qrveVgxnoVI');
-    
+    	message.reply('https://www.youtube.com/watch?v=qrveVgxnoVI');
+  	}
 });
 
 // THIS  MUST  BE  THIS  WAY
