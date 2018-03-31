@@ -1,10 +1,10 @@
 {
-  "name": "Test",
-  "description": "Test",
+  "name": "DogFromMonte",
+  "description": "DogFromMonte",
   "version": "0.0.0",
-  "main": "427842985510699008", 
+  "main": "dfm.js",
   "scripts": {
-    "start": "427842985510699008"
+    "start": "node dfm.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
