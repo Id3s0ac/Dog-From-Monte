@@ -1,1 +1,1 @@
-worker: node dfm.js
+worker node dfm.js
