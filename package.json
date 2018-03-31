@@ -1,6 +1,6 @@
 {
-  "name": "DogFromMonte",
-  "description": "DogFromMonte",
+  "name": "Dog-From-Monte",
+  "description": "Dog-From-Monte",
   "version": "0.0.0",
   "main": "dfm.js",
   "scripts": {
